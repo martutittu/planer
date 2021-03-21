@@ -4,7 +4,7 @@
   "description": "",
   "main": "dist/app.js",
   "scripts": {
-    "start":"tsc && node -r dotenv/config dist/app.js dotenv_config_path=./config/test.env",
+    "start": "tsc && node -r dotenv/config dist/app.js dotenv_config_path=./config/test.env",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
